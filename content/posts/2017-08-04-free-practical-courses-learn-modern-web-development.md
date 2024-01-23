@@ -3,7 +3,7 @@ title: Free practical courses to learn about modern web development
 date: 2017-08-04T18:35:45
 type: post
 slug: /free-practical-courses-learn-modern-web-development/
-cover: ../images/featured/stuttgart-1598427_1920.jpg
+cover: /images/featured/stuttgart-1598427_1920.jpg
 category: ['Web development']
 tags:
   [

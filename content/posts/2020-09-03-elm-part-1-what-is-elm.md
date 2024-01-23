@@ -3,7 +3,7 @@ title: What is Elm? Baby don't hurt me, no more
 date: 2020-09-03T11:15:51
 type: post
 slug: /learning-elm-part-1-what-is-elm/
-cover: ../images/featured/elm-elmo.png
+cover: /images/featured/elm-elmo.png
 category: ['Web development']
 tags: ['web', 'elm', 'functional programming']
 author: jmtalarn
@@ -22,7 +22,7 @@ Don't be scared 🙀.
 Elm is both a functional programming language with its own syntax and grammar but is also an application development framework.
 
 The hard part (not at all if you continue reading) is that is a **typed functional language**. And that means that you should deal with functional terms like immutable, monad, currying and recursion...
-
+<!--more-->
 
 But here it comes the good part, **Elm** is developer focused. And that means that everything around the language is based on make a pleasant experience for the developer during the job of coding. Even you are working with a functional language, you can start with the simplest thing and you will see yourself going deep through all the related concepts gradually finding solutions about what you want to do.
 
@@ -93,36 +93,27 @@ As the final application needs to work together with the browser or other apps i
 ### Great Performance
 Elm has its own virtual DOM implementation, designed for simplicity and speed. All values are immutable in Elm, and the benchmarks show that this helps us generate particularly fast JavaScript code.
 
-+-----------+---------------------------------------------------------------+
-| Framework | <div style="text-align: right">Milliseconds on Chrome 52</div>|
-+===========+===============================================================+
-| React     | <div style="text-align: right">4612 ms</div>                  |
-+-----------+---------------------------------------------------------------+
-| Ember     | <div style="text-align: right">4326 ms</div>                  |
-+-----------+---------------------------------------------------------------+
-| AngularJs | <div style="text-align: right">3838 ms</div>                  |
-+-----------+---------------------------------------------------------------+
-| Angular   | <div style="text-align: right">3494 ms</div>                  |
-+-----------+---------------------------------------------------------------+
-| Elm       | <div style="text-align: right">2480 ms</div>                  |
-+-----------+---------------------------------------------------------------+
+
+| Framework &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Milliseconds on Chrome 52|
+|----------------------------------------------|------------------------:|
+| React                                        |4612 ms                  |
+| Ember                                        |4326 ms                  |
+| AngularJs                                    |3838 ms                  |
+| Angular                                      |3494 ms                  |
+| Elm                                          |2480 ms                  |
 
 
 
 ### Small Assets
 Smaller assets means faster downloads and faster page loads, so Elm does a bunch of optimizations to make small assets the default. Just compile with the `--optimize` flag and let the compiler do the rest. No complicated set up.
 
-+------------+------------------------------------------------------------------------+
-| Framework  | <div style="text-align: right">Asset size (uglified & gzipped)</div>   |
-+============+========================================================================+
-| Vue 2.5    | <div style="text-align: right">100kb</div>                             |
-+------------+------------------------------------------------------------------------+
-| Angular 6  | <div style="text-align: right">93kb</div>                              |
-+------------+------------------------------------------------------------------------+
-| React 16.4 | <div style="text-align: right">77kb<div>                               |
-+------------+------------------------------------------------------------------------+
-| Elm        | <div style="text-align: right">29kb</div>                              |
-+------------+------------------------------------------------------------------------+
+
+| Framework  | Asset size (uglified & gzipped)   |
+|------------|----------------------------------:|
+| Vue 2.5    | 100kb                             |
+| Angular 6  | 93kb                              |
+| React 16.4 | 77kb                              |
+| Elm        | 29kb                              |
 
 
 

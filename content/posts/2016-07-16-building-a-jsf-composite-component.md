@@ -3,7 +3,7 @@ title: Building a JSF composite component
 date: 2016-07-16T20:58:38
 type: post
 slug: /building-a-jsf-composite-component/
-cover: ../images/featured/Sense-t-tol.png
+cover: /images/featured/Sense-t-tol.png
 category: ['Web development']
 tags: ['jsf', 'java', 'components']
 author: jmtalarn
@@ -94,7 +94,7 @@ xmlns:ui="http://java.sun.com/jsf/facelets"
   </f:facet>
 
 
-  <div id="#{cc.id}" style="background-cover:  url(#{request.contextPath}/resources/mapoftreasure/#{cc.attrs.mapBackground}.jpg); background-size: cover; #{cc.attrs.style}; width: #{cc.attrs.width}px; height:#{cc.attrs.height}px; position: relative; ">
+  <div id="#{cc.id}" style="background-cover: /images url(#{request.contextPath}/resources/mapoftreasure/#{cc.attrs.mapBackground}.jpg); background-size: cover; #{cc.attrs.style}; width: #{cc.attrs.width}px; height:#{cc.attrs.height}px; position: relative; ">
       <div id="posX-posY" class="positionMarker"> </div>
       <h:outputText id="trashThings" styleClass="fa fa-trash fa-2x trashThings" a:data-canvas="#{cc.id}" title="Drop to remove thing"></h:outputText>
   </div>

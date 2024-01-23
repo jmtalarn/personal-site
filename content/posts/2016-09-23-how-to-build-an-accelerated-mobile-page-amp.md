@@ -3,7 +3,7 @@ title: How to build an Accelerated Mobile Page (AMP)?
 date: 2016-09-23T21:39:07
 type: post
 slug: /how-to-build-an-accelerated-mobile-page-amp/
-cover: ../images/featured/AMP-Project-logo.png
+cover: /images/featured/AMP-Project-logo.png
 category: ['Web development']
 tags: ['AMP']
 author: jmtalarn

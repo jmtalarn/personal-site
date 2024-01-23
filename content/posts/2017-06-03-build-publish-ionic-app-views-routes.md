@@ -3,7 +3,7 @@ title: Build and publish a Ionic App – Views and routes
 date: 2017-06-03T02:30:28
 type: post
 slug: /build-publish-ionic-app-views-routes/
-cover: ../images/featured/angular-ionic-wall.jpg
+cover: /images/featured/angular-ionic-wall.jpg
 category: ['App development', 'Web development']
 tags:
   [

@@ -5,7 +5,7 @@ type: post
 slug: /express-app-and-a-ghost-blog-together/
 category: ['Blogging', 'Web development']
 tags: ['express', 'nodejs', 'ghost']
-cover: ../images/featured/nodejsexpressghost.jpg
+cover: /images/featured/nodejsexpressghost.jpg
 author: jmtalarn
 ---
 

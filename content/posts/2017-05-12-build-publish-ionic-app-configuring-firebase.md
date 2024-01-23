@@ -3,7 +3,7 @@ title: Build and publish a Ionic App – Configuring Firebase
 date: 2017-05-12T12:38:35
 type: post
 slug: /build-publish-ionic-app-configuring-firebase/
-cover: ../images/featured/Firebase-header.png
+cover: /images/featured/Firebase-header.png
 category: ['App development', 'Web development']
 tags:
   [

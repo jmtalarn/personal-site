@@ -3,7 +3,7 @@ title: IntelliJ Idea vs Eclipse keyboard shortcuts
 date: 2016-07-08T18:00:00
 type: post
 slug: /intellij-idea-vs-eclipse-keyboard-shortcuts/
-cover: ../images/featured/eclipsevsintellij.png
+cover: /images/featured/eclipsevsintellij.png
 category: ['Web development']
 tags: ['eclipse', 'intellij idea', 'shortcuts']
 author: jmtalarn

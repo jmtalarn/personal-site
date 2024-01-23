@@ -3,7 +3,7 @@ title: Compiling Sass with Maven or Gulp
 date: 2015-10-21T14:28:23
 type: post
 slug: /compiling-sass-maven-gulp/
-cover: ../images/featured/sass-logo-6.png
+cover: /images/featured/sass-logo-6.png
 tags: ['css', 'maven', 'gulp', 'sass']
 category: ['Web development']
 author: jmtalarn

@@ -3,7 +3,7 @@ title: Build and publish a Ionic App – Live update of Firebase backend with An
 date: 2017-08-18T14:28:28
 type: post
 slug: /build-publish-ionic-app-live-update-firebase-angularjs/
-cover: ../images/featured/live_update.jpg
+cover: /images/featured/live_update.jpg
 category: ['App development', 'Web development']
 tags:
   [

@@ -1,4 +1,71 @@
 .article {
-	border: 2px dotted salmon;
-	font-family:'Courier New', Courier, monospace;
+	padding: 1rem;
+}
+
+.article h1,
+.article h2,
+.article h3,
+.article h4,
+.article h5,
+.article h6,
+.article p {
+	margin-top: 1rem;
+}
+
+.article blockquote {
+	background: #f9f9f9;
+	border-left: 10px solid #ccc;
+	margin: 1.5em 10px;
+	padding: 0.5em 10px;
+	quotes: "\201C" "\201D" "\2018" "\2019";
+
+}
+
+.article blockquote:before {
+	color: #ccc;
+	content: open-quote;
+	font-size: 4em;
+	line-height: 0.1em;
+	margin-right: 0.25em;
+	vertical-align: -0.4em;
+}
+
+.article blockquote p {
+	display: inline;
+}
+
+
+.article>p {
+	width: 100%;
+}
+
+.article img {
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 1rem;
+	display: block;
+}
+
+.article a:hover {
+	animation: pulse-animation 2s linear infinite;
+}
+
+
+@keyframes pulse-animation {
+	0% {
+		text-shadow: 0 0 0 rgba(255, 0, 64, 0.9), 0 0 0 rgba(255, 0, 64, 0.9);
+	}
+
+	40% {
+		text-shadow: 0 0 20px rgba(255, 0, 64, 0), 0 0 0 rgba(255, 0, 64, 0.9);
+	}
+
+	80% {
+		text-shadow: 0 0 20px rgba(255, 0, 64, 0), 0 0 10px rgba(255, 0, 64, 0);
+	}
+
+	100% {
+		text-shadow: 0 0 0 rgba(255, 0, 64, 0), 0 0 10px rgba(255, 0, 64, 0);
+	}
 }

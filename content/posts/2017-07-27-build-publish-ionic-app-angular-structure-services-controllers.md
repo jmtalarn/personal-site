@@ -5,7 +5,7 @@ title:
 date: 2017-07-27T11:35:06
 type: post
 slug: /build-publish-ionic-app-angular-structure-services-controllers/
-cover: ../images/featured/angular-factory.jpg
+cover: /images/featured/angular-factory.jpg
 category: ['App development', 'Web development']
 tags:
   [

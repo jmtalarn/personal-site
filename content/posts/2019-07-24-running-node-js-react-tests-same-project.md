@@ -3,7 +3,7 @@ title: Running Node and React tests in the same project
 date: 2019-07-24T12:50:02
 type: post
 slug: /running-node-js-react-tests-same-project/
-cover: ../images/featured/nodejs-react-jest-tests.png
+cover: /images/featured/nodejs-react-jest-tests.png
 category: ['Web development']
 tags:
   [

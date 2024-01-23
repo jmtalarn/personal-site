@@ -3,7 +3,7 @@ title: Migrating from Ghost to WordPress over Openshift
 date: 2017-04-15T00:51:09
 type: post
 slug: /migrating-from-ghost-to-wordpress-over-openshift/
-cover: ../images/featured/wp-vs-ghost.jpg
+cover: /images/featured/wp-vs-ghost.jpg
 category: ['Blogging', 'Web development']
 tags: ['blog', 'blogging', 'ghost', 'wordpress', 'openshift']
 author: jmtalarn

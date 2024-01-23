@@ -3,7 +3,7 @@ title: web services - xml based vs json based
 date: 2016-09-07T19:14:50
 type: post
 slug: /web-services-xml-based-vs-json-based/
-cover: ../images/featured/butler.jpg
+cover: /images/featured/butler.jpg
 category: ['Web development']
 tags: ['web services', 'xml', 'json']
 author: jmtalarn

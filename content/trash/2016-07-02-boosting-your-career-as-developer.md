@@ -3,7 +3,7 @@ title: Boosting your career as developer
 date: 2016-07-02T18:42:24
 type: post
 slug: /boosting-your-career-as-developer/
-cover: ../images/featured/career-opportunity.jpg
+cover: /images/featured/career-opportunity.jpg
 category: ['Blogging', 'Web development']
 tags: ['blog', 'career']
 author: jmtalarn

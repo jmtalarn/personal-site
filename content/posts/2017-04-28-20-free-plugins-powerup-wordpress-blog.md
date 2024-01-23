@@ -3,7 +3,7 @@ title: 20 free plugins to power-up your Wordpress blog
 date: 2017-04-28T23:35:56
 type: post
 slug: /20-free-plugins-powerup-wordpress-blog/
-cover: ../images/featured/puzzle.png
+cover: /images/featured/puzzle.png
 category: ['Blogging', 'Web development']
 tags: ['blog', 'wordpress', 'plugins']
 author: jmtalarn

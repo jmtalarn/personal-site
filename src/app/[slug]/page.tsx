@@ -1,8 +1,13 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { remark } from "remark";
-import html from "remark-html";
+
+import Markdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
+import remarkGfm from 'remark-gfm';
+
+import CodeBlock from "./CodeBlock";
+
 
 import styles from './blog-post.module.css'
 
@@ -18,10 +23,10 @@ const allPostsData = fileNames.map((fileName) => {
 
 	// Use gray-matter to parse the post metadata section
 	const { data, content } = matter(fileContents);
-
+	const { slug, ...restData } = data;
 	// Combine the data with the id
 	return {
-		id, ...data, content
+		id, content, slug, ...restData
 	};
 });
 const allPostsDataPerSlug = new Map(allPostsData.map(data => [data.slug.replaceAll("/", ""), data]))
@@ -30,21 +35,25 @@ export async function generateStaticParams() {
 	return allPostsData.map(({ slug }) => ({ slug }));
 }
 
-
-async function markdownToHtml(markdown: string) {
-	const result = await remark().use(html).process(markdown);
-	return result.toString();
-}
-
-
 export default async function BlogPost({ params: { slug } }: Readonly<{ params: { slug: string } }>) {
 	const blogPost = allPostsDataPerSlug.get(slug);
 	const { title, content } = blogPost;
-	const contentHTML = await markdownToHtml(content);
+
 	return (
-		<main>
+		<main className={styles.article}>
 			<h1>{title}</h1>
-			<article className={styles.article} dangerouslySetInnerHTML={{ __html: contentHTML }} />
+			<article>
+				<Markdown
+					rehypePlugins={[rehypeRaw]} //,rehypePrism ]} 
+					remarkPlugins={[remarkGfm]}
+					components={{
+						code: CodeBlock
+					}}
+				>
+					{content}
+				</Markdown>
+			</article>
+
 		</main>
 	)
 }

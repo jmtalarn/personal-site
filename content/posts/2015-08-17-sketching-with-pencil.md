@@ -3,14 +3,16 @@ title: Sketching with Pencil
 date: 2015-08-17T03:50:00
 type: post
 slug: /sketching-with-pencil/
-cover: ../images/featured/2015-04-09-12_09_43-Home---Pencil-Project.png
+cover: /images/featured/2015-04-09-12_09_43-Home---Pencil-Project.png
 tags: ['design', 'resources']
 category: ['Design resources']
 author: jmtalarn
 ---
 
-<b>Evolus Pencil</b> is an open source software for prototyping and sketching and is what I use as a free alternative to all the web based existing applications to do the designs and wireframes.
-It has many bundled stencils collections to use based on Android,iOS and many web frameworks components ...<!--more-->but it has one based on sketchy elements, perfect to draw the wireframes designs and separate it from the final look and feel, the most used in my concepts and designs.
+**Evolus Pencil** is an open source software for prototyping and sketching and is what I use as a free alternative to all the web based existing applications to do the designs and wireframes.
+It has many bundled stencils collections to use based on Android,iOS and many web frameworks components ... 
+<!--more--> 
+but it has one based on sketchy elements, perfect to draw the wireframes designs and separate it from the final look and feel, the most used in my concepts and designs.
 
 The latest stable version, 2.0.5, was released on September 2013 ... but it's almost free of bugs and working fine.
 

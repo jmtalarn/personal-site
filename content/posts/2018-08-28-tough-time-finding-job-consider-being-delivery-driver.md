@@ -3,7 +3,7 @@ title: Tough Time Finding A Job? Consider Being A Delivery Drive
 date: 2018-08-20T23:33:45
 type: post
 slug: /tough-time-finding-job-consider-being-delivery-driver/
-cover: ../images/featured/be-delivery-driver.jpg
+cover: /images/featured/be-delivery-driver.jpg
 category: ['Guest post']
 tags: ['job']
 author: michael-kordvani

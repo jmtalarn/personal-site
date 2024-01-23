@@ -3,7 +3,7 @@ title: Build and publish a Ionic App – First steps
 date: 2017-05-19T23:10:03
 type: post
 slug: /build-publish-ionic-app-first-steps/
-cover: ../images/featured/blueprint-964630_1280.jpg
+cover: /images/featured/blueprint-964630_1280.jpg
 category: ['App development', 'Web development']
 tags:
   [

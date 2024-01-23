@@ -3,7 +3,7 @@ title: Build and publish a Ionic App – Cordova plugins
 date: 2017-08-11T18:49:17
 type: post
 slug: /build-publish-ionic-app-cordova-plugins/
-cover: ../images/featured/Cordova_Alaska_aerial_view.jpg
+cover: /images/featured/Cordova_Alaska_aerial_view.jpg
 category: ['App development', 'Web development']
 tags:
   [

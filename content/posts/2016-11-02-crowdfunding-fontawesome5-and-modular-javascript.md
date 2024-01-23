@@ -3,7 +3,7 @@ title: Crowdfunding FontAwesome5 and Modular Javascript
 date: 2016-11-02T01:45:58
 type: post
 slug: /crowdfunding-fontawesome5-and-modular-javascript/
-cover: ../images/featured/fa5-mjavascript.png
+cover: /images/featured/fa5-mjavascript.png
 category: ['Web development']
 tags: ['fontawesome', 'javascript']
 author: jmtalarn

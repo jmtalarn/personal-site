@@ -3,7 +3,7 @@ title: Build and publish a Ionic App - The idea
 date: 2017-05-04T12:38:34
 type: post
 slug: /build-publish-ionic-app-i-idea/
-cover: ../images/featured/ux-787980_1920.jpg
+cover: /images/featured/ux-787980_1920.jpg
 category: ['App development', 'Web development']
 tags:
   [

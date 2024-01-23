@@ -3,7 +3,7 @@ title: random data generator for tests
 date: 2016-08-12T01:25:19
 type: post
 slug: /random-data-generator-for-tests/
-cover: ../images/featured/latinbook.jpg
+cover: /images/featured/latinbook.jpg
 category: ['Web development']
 tags: ['testing', 'mock data', 'random']
 author: jmtalarn

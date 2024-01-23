@@ -3,7 +3,7 @@ title: Theming your stylesheets with css variables
 date: 2018-11-13T12:50:12
 type: post
 slug: /theming-stylesheets-with-css-variables/
-cover: ../images/featured/css-variables.png
+cover: /images/featured/css-variables.png
 category: ['Web development']
 tags:
   [

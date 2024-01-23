@@ -3,7 +3,7 @@ title: One source of truth to run them all
 date: 2020-04-06T13:10:19
 type: post
 slug: /one-source-of-truth-for-all-Redux-javascript-components/
-cover: ../images/featured/one-ring-to-run-them-all.png
+cover: /images/featured/one-ring-to-run-them-all.png
 category: ['Web development']
 tags:
   [

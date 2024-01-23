@@ -3,7 +3,7 @@ title: Build and publish a Ionic App – Generate icon and splash images
 date: 2017-10-07T02:32:34
 type: post
 slug: /build-publish-ionic-app-icon-splash-images/
-cover: ../images/featured/splash.jpg
+cover: /images/featured/splash.jpg
 category: ['App development', 'Web development']
 tags:
   [
@@ -22,7 +22,8 @@ tags:
 author: jmtalarn
 ---
 
-<p>The icon is the first presentation of your app and maybe a bad design or a not so nice icon can make the user refuse to install your app. You should try to give a professional and nice presentation to, at least, avoid get the user away only at the first glance.</p>
+The icon is the first presentation of your app and maybe a bad design or a not so nice icon can make the user refuse to install your app. You should try to give a professional and nice presentation to, at least, avoid get the user away only at the first glance.
+
 <!--more-->
 <p>The Ionic applications have two main assets which will be the visual presentation of your app. The framework provide a tool to generate all necessary files from the source images provided in your project. These files were'll be ready to be embedded on your final build and adapted to each size and requirement from the device.</p>
 <h3>Place your images on the resources folder</h3>

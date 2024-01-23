@@ -3,7 +3,7 @@ title: Testing Javascript with Jasmine
 date: 2016-10-21T23:56:58
 type: post
 slug: /testing-javascript-with-jasmine/
-cover: ../images/featured/jasmine-horizontal.png
+cover: /images/featured/jasmine-horizontal.png
 category: ['Web development']
 tags: ['testing', 'jasmine', 'javascript']
 author: jmtalarn

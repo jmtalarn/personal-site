@@ -3,7 +3,7 @@ title: Use Foundation for sites 6 in your Angular 2 application
 date: 2017-06-12T01:08:26
 type: post
 slug: /foundation-sites-6-angular-2-application/
-cover: ../images/featured/foundation-angular.jpg
+cover: /images/featured/foundation-angular.jpg
 category: ['Web development']
 tags:
   [
@@ -21,7 +21,8 @@ tags:
 author: jmtalarn
 ---
 
-<p>Foundation for sites is a responsive <a href="http://foundation.zurb.com/sites.html" target="\_blank">framework</a> developed by <a href="http://zurb.com/" target="\_blank">Zurb</a>. It provides a full collection of styled components and responsive grid to build the complete layout of your site. Just follow these steps to add it to your Angular project.</p>
+**Foundation for sites** is a responsive [framework](http://foundation.zurb.com/sites.html) developed by [Zurb](http://zurb.com/). It provides a full collection of styled components and responsive grid to build the complete layout of your site. Just follow these steps to add it to your Angular project.
+
 <!--more-->
 <p>
 I'm used to the Zurb's Foundation framework due its simplicity and I feel it less invasive than it could be other frameworks like <a href="http://getbootstrap.com/">Bootstrap</a>. Also this week I started learning about <a href="https://angular.io/">Angular (&gt;=2)</a> and I found that I needed some "prebuilt" components to help me in the project I started with learning purposes. So I struggled a little bit to add Foundation for sites to it and these are the steps I followed ...</p>
@@ -152,6 +153,7 @@ with
 
 <p>
 In your application main component, for instance, app.component.ts there is a definition of where there are the styles of that component:</p>
+
 ```typescript
 @Component({
   selector: 'app-root',
@@ -159,10 +161,14 @@ In your application main component, for instance, app.component.ts there is a de
   styleUrls: ['./app.component.scss']
 })
 ```
+
 In that definition there is where is located the scss file (<code>styleUrls: ['./app.component.scss']</code>) for that component, in that case, the main component as we want to configure it a global style for the whole angualr application.
 
 So in that app.component.scss you should include the \_settings.scss that we just copied on our assets folder.
-`@import '../scss/settings';`
+
+```scss
+@import '../scss/settings';
+```
 
 And now you can modify that settings file to manage all your customizations for that application. If you open that file in your editor you will see that there are a bunch of Sass variables ready to be changed, organized by components and sections.
 

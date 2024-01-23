@@ -3,7 +3,7 @@ title: 'Build and publish a Ionic App – Angular application structure: directi
 date: 2017-07-28T11:34:38
 type: post
 slug: /build-publish-ionic-app-angular-structure-directives/
-cover: ../images/featured/sign-post-2432209_1920.jpg
+cover: /images/featured/sign-post-2432209_1920.jpg
 category: ['App development', 'Web development']
 tags:
   [

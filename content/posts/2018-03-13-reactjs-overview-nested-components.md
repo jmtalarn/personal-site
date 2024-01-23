@@ -3,7 +3,7 @@ title: React quick overview and nested components
 date: 2018-03-13T01:52:42
 type: post
 slug: /reactjs-overview-nested-components/
-cover: ../images/featured/reactjs-passdata.jpg
+cover: /images/featured/reactjs-passdata.jpg
 category: ['Web development']
 tags: ['components', 'web', 'html', 'react', 'javascript']
 author: jmtalarn

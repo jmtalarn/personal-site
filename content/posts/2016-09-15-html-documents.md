@@ -3,7 +3,7 @@ title: HTML Documents
 date: 2016-09-15T15:51:40
 type: post
 slug: /html-documents/
-cover: ../images/featured/htmldocuments.jpg
+cover: /images/featured/htmldocuments.jpg
 category: ['Web development']
 tags: ['html']
 author: jmtalarn

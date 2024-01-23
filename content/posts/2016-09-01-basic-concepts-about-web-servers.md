@@ -3,7 +3,7 @@ title: Basic concepts about web servers
 date: 2016-09-01T00:03:00
 type: post
 slug: /basic-concepts-about-web-servers/
-cover: ../images/featured/web.jpg
+cover: /images/featured/web.jpg
 category: ['Web development']
 tags: ['web servers']
 author: jmtalarn

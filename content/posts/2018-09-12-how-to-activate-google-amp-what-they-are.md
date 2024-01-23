@@ -3,7 +3,7 @@ title: How to activate Google's AMP and what they are
 date: 2018-09-12T23:45:33
 type: post
 slug: /how-to-activate-google-amp-what-they-are/
-cover: ../images/featured/activate-google-amp.png
+cover: /images/featured/activate-google-amp.png
 category: ['Guest post', 'Web development']
 tags: ['amp', 'web', 'html']
 author: lissa-doniro

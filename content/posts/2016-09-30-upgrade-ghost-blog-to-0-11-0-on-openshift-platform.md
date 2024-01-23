@@ -3,7 +3,7 @@ title: Upgrade Ghost blog to 0.11.0 on Openshift platform
 date: 2016-09-30T23:24:00
 type: post
 slug: /upgrade-ghost-blog-to-0-11-0-on-openshift-platform/
-cover: ../images/featured/ghost11-openshift.png
+cover: /images/featured/ghost11-openshift.png
 category: ['Blogging', 'Web development']
 tags: ['ghost', 'blog', 'openshift']
 author: jmtalarn

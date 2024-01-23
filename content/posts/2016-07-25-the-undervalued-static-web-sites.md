@@ -3,7 +3,7 @@ title: The undervalued static web sites
 date: 2016-07-25T15:38:25
 type: post
 slug: /the-undervalued-static-web-sites/
-cover: ../images/featured/Captura-de-pantalla-de-2016-07-08-13-00-25.png
+cover: /images/featured/Captura-de-pantalla-de-2016-07-08-13-00-25.png
 category: ['Web development']
 tags: ['static web sites']
 author: jmtalarn

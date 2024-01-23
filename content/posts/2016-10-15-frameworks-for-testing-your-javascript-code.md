@@ -3,19 +3,20 @@ title: Frameworks for testing your Javascript code
 date: 2016-10-15T02:28:32
 type: post
 slug: /frameworks-for-testing-your-javascript-code/
-cover: ../images/featured/javascript.testing.jpg
+cover: /images/featured/javascript.testing.jpg
 category: ['Web development']
 tags: ['testing', 'jasmine', 'protractor', 'mocha', 'javascript']
 author: jmtalarn
 ---
 
-<ul>
-<li><a href="#jasmine">Jasmine</a></li>
-<li><a href="#karma">Karma</a></li>
-<li><a href="#protractor">Protractor</a></li>
-<li><a href="#mocha">Mocha</a></li>
-</ul>
+
+* [Jasmine](#jasmine)
+* [Karma](#karma)
+* [Protractor](#protractor)
+* [Mocha](#mocha)
+
 <!--more-->
+
 <h2 id="jasmine">Jasmine</h2>
 <p><a href="http://jasmine.github.io/" target="\_blank">http://jasmine.github.io/</a><br />
 <img src="../images/jasmine-horizontal.svg" alt="Frameworks for testing your Javascript code" /></p>

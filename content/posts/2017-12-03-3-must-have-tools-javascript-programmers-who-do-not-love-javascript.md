@@ -3,7 +3,7 @@ title: 3 Must Have Tools for JavaScript App Development Programmers Who Do NOT L
 date: 2017-12-02T22:45:53
 type: post
 slug: /3-must-have-tools-javascript-programmers-who-do-not-love-javascript/
-cover: ../images/featured/drake-no-js-drake-yes-ts.png
+cover: /images/featured/drake-no-js-drake-yes-ts.png
 category: ['Guest post', 'Web development']
 tags:
   [
